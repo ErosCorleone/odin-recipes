@@ -1,0 +1,24 @@
+#page {
+    background-color: rgb(215, 127, 19);
+    text-align: center;
+}
+
+.homepage-title {
+    font-family: cursive, sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: blueviolet;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+  }
+  
+  li {
+    text-align: center;
+    list-style: inside;
+  }
+  
